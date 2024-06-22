@@ -241,9 +241,8 @@ http://opplex.tv:8080/live/umera1234/2345678/245895.ts
 http://opplex.tv:8080/live/umera1234/2345678/245906.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iqLyqRz.jpg" group-title="KOLKATA",Sun Bangla Cinema
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png" group-title="KOLKATA",Sony Aath
-http://allinonereborn.tech/allinone.php?id=49609
-#EXTINF:-1http://xtv.ooo:8080/global/global/245989
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png" group-title="KOLKATA",Sony আট
+http://xtv.ooo:8080/live/mahendra44/mhnd1234/245989.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvV1BmyL/Enterr10-Bangla.jpg" group-title="KOLKATA",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg" group-title="KOLKATA",Rupshi Bangla
