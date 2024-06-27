@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hv1Hpp94/IMG-20240529-185013-854.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠",https://t.me/FerdosLiveTv
 https://t.me/FerdosLiveTv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F0dmFko.jpg" group-title="KOLKATA",Sony Aath(sonylive)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png" group-title="KOLKATA",Sony Aath(sonylive)
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1354.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRprOWBglxC8nghpMyr7_9eDDAPjH4PdFqg&usqp=CAU" group-title="LIVE NOW",TSports BD
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM/ts
