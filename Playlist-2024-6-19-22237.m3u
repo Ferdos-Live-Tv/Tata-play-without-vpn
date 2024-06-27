@@ -1,23 +1,6 @@
 #EXTM3U 
 EXTINF:-1 tvg-logo="https://i.postimg.cc/hv1Hpp94/IMG-20240529-185013-854.jpg" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠",https://t.me/FerdosLiveTv
 https://t.me/FerdosLiveTv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRprOWBglxC8nghpMyr7_9eDDAPjH4PdFqg&usqp=CAU" group-title="LIVE NOW",T20 MWC Toffee English Live
-https://evbr.short.gy/BDStreamHub/Toffee/English.m3u
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRprOWBglxC8nghpMyr7_9eDDAPjH4PdFqg&usqp=CAU" group-title="LIVE NOW",T20 MWC Toffee Bangla Live
-https://evbr.short.gy/BDStreamHub/Toffee/Bangla.m3u
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRprOWBglxC8nghpMyr7_9eDDAPjH4PdFqg&usqp=CAU" group-title="LIVE NOW",T20 MWC Nagorik TV
-https://tv5.hoichoi24.com/1102/index.m3u8
-#EXTINF:-1https://evbr.short.gy/BDStreamHub/Nagorik_Tv.m3u
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRprOWBglxC8nghpMyr7_9eDDAPjH4PdFqg&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRprOWBglxC8nghpMyr7_9eDDAPjH4PdFqg&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRprOWBglxC8nghpMyr7_9eDDAPjH4PdFqg&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRprOWBglxC8nghpMyr7_9eDDAPjH4PdFqg&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRprOWBglxC8nghpMyr7_9eDDAPjH4PdFqg&usqp=CAU" group-title="LIVE NOWLIVE NOWLIVE NOWLIVE NOWLIVE NOW",T20 MWC Star Sports 1T20 MWC Star Sports 2 HDT20 MWC Willow CricketT20 MWC Willow Cricket extraT20 MWC Sky Sports Cricket
-http://xtv.ooo:8080/global/global/167594
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRprOWBglxC8nghpMyr7_9eDDAPjH4PdFqg&usqp=CAU" group-title="LIVE NOW",T20
-https://mm5-97.tinyuri.org/live/m4-1080p.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRprOWBglxC8nghpMyr7_9eDDAPjH4PdFqg&usqp=CAU" group-title="LIVE NOW",T20 MWC PTV Sports
-http://xtv.ooo:8080/global/global/167567
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRprOWBglxC8nghpMyr7_9eDDAPjH4PdFqg&usqp=CAU" group-title="LIVE NOW",T20 MWC Super Sports Cricket
-http://opplex.tv:8080/live/umera1234/2345678/238475.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRprOWBglxC8nghpMyr7_9eDDAPjH4PdFqg&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRprOWBglxC8nghpMyr7_9eDDAPjH4PdFqg&usqp=CAU" group-title="LIVE NOWLIVE NOW",T20 MWC Ten Sports HDT20 MWC Fox Cricket 501 HD
-http://xtv.ooo:8080/live/467899872/875785779/167593.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRprOWBglxC8nghpMyr7_9eDDAPjH4PdFqg&usqp=CAU" group-title="LIVE NOW",TSports BD
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM/ts
 #EXTINF:-1http://starshare.live:8080/live/sDouR8ee0j/vJfJGRgmSs/130714.ts
@@ -46,18 +29,18 @@ http://allinonereborn.tech/allinone2.php?id=48854
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/522/791/png-transparent-uefa-euro-2024.png" group-title="UEFA EURO 2024",TSN 4
 http://opplex.tv:8080/live/nazrul763/77547647/349017.ts
 #EXTINF:-1http://allinonereborn.tech/allinone2.php?id=48849
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/522/791/png-transparent-uefa-euro-2024.png" group-title="UEFA EURO 2024",ITV
-https://allinonereborn.in/doordarshanz.m3u8?id=1768
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/522/791/png-transparent-uefa-euro-2024.png" group-title="UEFA EURO 2024",TRT1
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnnMpKHsGZK03_pXuA9qK_VAl8ttCBGY9rbK-_lu9hHdrvfonJWY4Ysd0xHflOaER0vNXinMERlUmezBpw2JQrXU4NZOqkqpxV_yN5nIqVHvLB9OjqloTyMy2rfLn1_5CzIag7XrjL-BY4NJPVChrW5JiocRugKBE1o6tDFNTwyzBv3UH4ptUcJBS_tcs4/s1600/the-new-copa-america-2024-logo%20%284%29.jpg" group-title="Copa America 2024",T Sports
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnnMpKHsGZK03_pXuA9qK_VAl8ttCBGY9rbK-_lu9hHdrvfonJWY4Ysd0xHflOaER0vNXinMERlUmezBpw2JQrXU4NZOqkqpxV_yN5nIqVHvLB9OjqloTyMy2rfLn1_5CzIag7XrjL-BY4NJPVChrW5JiocRugKBE1o6tDFNTwyzBv3UH4ptUcJBS_tcs4/s1600/the-new-copa-america-2024-logo%20%284%29.jpg" group-title="Copa America 2024",Copa 24
+https://evbr.short.gy/Bdstreamhub_Toffee_Copa_America.m3u
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnnMpKHsGZK03_pXuA9qK_VAl8ttCBGY9rbK-_lu9hHdrvfonJWY4Ysd0xHflOaER0vNXinMERlUmezBpw2JQrXU4NZOqkqpxV_yN5nIqVHvLB9OjqloTyMy2rfLn1_5CzIag7XrjL-BY4NJPVChrW5JiocRugKBE1o6tDFNTwyzBv3UH4ptUcJBS_tcs4/s1600/the-new-copa-america-2024-logo%20%284%29.jpg" group-title="Copa America 2024",Copa 24
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnnMpKHsGZK03_pXuA9qK_VAl8ttCBGY9rbK-_lu9hHdrvfonJWY4Ysd0xHflOaER0vNXinMERlUmezBpw2JQrXU4NZOqkqpxV_yN5nIqVHvLB9OjqloTyMy2rfLn1_5CzIag7XrjL-BY4NJPVChrW5JiocRugKBE1o6tDFNTwyzBv3UH4ptUcJBS_tcs4/s1600/the-new-copa-america-2024-logo%20%284%29.jpg" group-title="Copa America 2024",Copa 24
-https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/VUswB4u-pAh0FUR8Bb4fZyGfoCaGsl5eQkV4hrW54ACEzh9ZJtnccxoxs3Ga6d49yzKR_hNYIEGLuXqXRUTFWQ/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_playlist.m3u8?type=live
+https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnnMpKHsGZK03_pXuA9qK_VAl8ttCBGY9rbK-_lu9hHdrvfonJWY4Ysd0xHflOaER0vNXinMERlUmezBpw2JQrXU4NZOqkqpxV_yN5nIqVHvLB9OjqloTyMy2rfLn1_5CzIag7XrjL-BY4NJPVChrW5JiocRugKBE1o6tDFNTwyzBv3UH4ptUcJBS_tcs4/s1600/the-new-copa-america-2024-logo%20%284%29.jpg" group-title="Copa America 2024",Copa 24
-http://179.124.14.153:8080/19/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnnMpKHsGZK03_pXuA9qK_VAl8ttCBGY9rbK-_lu9hHdrvfonJWY4Ysd0xHflOaER0vNXinMERlUmezBpw2JQrXU4NZOqkqpxV_yN5nIqVHvLB9OjqloTyMy2rfLn1_5CzIag7XrjL-BY4NJPVChrW5JiocRugKBE1o6tDFNTwyzBv3UH4ptUcJBS_tcs4/s1600/the-new-copa-america-2024-logo%20%284%29.jpg" group-title="Copa America 2024",Copa 24
-https://cdn-1.bdiptv24.line.pm/live/FS1/index.m3u8
+https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnnMpKHsGZK03_pXuA9qK_VAl8ttCBGY9rbK-_lu9hHdrvfonJWY4Ysd0xHflOaER0vNXinMERlUmezBpw2JQrXU4NZOqkqpxV_yN5nIqVHvLB9OjqloTyMy2rfLn1_5CzIag7XrjL-BY4NJPVChrW5JiocRugKBE1o6tDFNTwyzBv3UH4ptUcJBS_tcs4/s1600/the-new-copa-america-2024-logo%20%284%29.jpg" group-title="Copa America 2024",Copa 24
 https://cdn-1.bdiptv24.line.pm/live/TSN1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdK93HTJ/images-5-10.jpg" group-title="ISLAMIC",Peace Tv
@@ -169,7 +152,9 @@ https://livess.ncare.live/live-orgin/nantv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/thechanneltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F0dmFko.jpg" group-title="KOLKATA",Zee Bangla HD
 https://evbr.short.gy/BDStreamHub/zee_bangla.m3u
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpghttps://i.postimg.cc/9F9RWxLr/images-5-26.jpghttps://i.postimg.cc/bY79PVQB/images-5-28.jpghttps://i.postimg.cc/0NVrthyH/Colors-Bangla-HD-prelaunch-2016.pnghttps://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951https://i.postimg.cc/L4nx2ZGn/image.jpghttps://i.imgur.com/iqLyqRz.jpghttps://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png" group-title="KOLKATAKOLKATAKOLKATAKOLKATAKOLKATAKOLKATAKOLKATAKOLKATA",Zee Bangla CinemaStar Jalsha HDStar Jalsha Movies HDColors Bangla HDCOLORS BANGLA CINEMASun BanglaSun Bangla CinemaSony Aath
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpghttps://i.postimg.cc/9F9RWxLr/images-5-26.jpg" group-title="KOLKATAKOLKATA",Zee Bangla CinemaStar Jalsha HD
+https://evbr.short.gy/BDStreamHub_Star_Jalsha.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpghttps://i.postimg.cc/0NVrthyH/Colors-Bangla-HD-prelaunch-2016.pnghttps://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951https://i.postimg.cc/L4nx2ZGn/image.jpghttps://i.imgur.com/iqLyqRz.jpghttps://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png" group-title="KOLKATAKOLKATAKOLKATAKOLKATAKOLKATAKOLKATA",Star Jalsha Movies HDColors Bangla HDCOLORS BANGLA CINEMASun BanglaSun Bangla CinemaSony Aath
 http://allinonereborn.tech/allinone.php?id=49609
 #EXTINF:-1http://xtv.ooo:8080/global/global/245989
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvV1BmyL/Enterr10-Bangla.jpg" group-title="KOLKATA",Enter 10 Bangla
@@ -237,7 +222,7 @@ https://raw.githubusercontent.com/IftyER/yt/main/kidsland.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",Cartoon Network
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3EJN4q6.png" group-title="KIDS",Nick
-http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHJ5B_vCrG7T0IwnOA9iF_Qc/ts
+https://jio.dinesh29.com.np/live/jio-universal/nick-bangla/index.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3EJN4q6.pnghttps://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="KIDSKIDS",Nick HindiSonic
 https://jio.dinesh29.com.np/live/jio-universal/nick-bangla/index.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.pnghttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzz5w3vSIpb_Gb48tVtM9y3kgNiVk6Pn9aBjHvNLs31A&s" group-title="KIDSKIDS",Sonic HindiPogo
